@@ -1,0 +1,241 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1100px"
+		},
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"fluid": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaWlGrw-PTY.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeOvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSd-OvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSKeOvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsS9-SvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSG-OvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSzuSvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSqeSvG547LTZFwA.woff2"
+						},
+						{
+							"fontFamily": "Mulish",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/1Ptwg83HX_SGhgqk2hAjQlW_mEuZ0FsSgOSvG547LTZFwA.woff2"
+						}
+					],
+					"fontFamily": "Mulish, sans-serif",
+					"name": "Mulish",
+					"slug": "mulish"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Pirata One\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/I_urMpiDvgLdLh0fAtofti2Er5_BdZ8.woff2"
+						}
+					],
+					"fontFamily": "\"Pirata One\", system-ui",
+					"name": "Pirata One",
+					"slug": "pirata-one"
+				}
+			]
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"blocks": {
+			"core/query-no-results": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--pirata-one)",
+					"fontSize": "7rem",
+					"letterSpacing": "1px"
+				}
+			},
+			"core/query-title": {
+				"typography": {
+					"fontSize": "7rem"
+				}
+			},
+			"core/site-title": {
+				"color": {
+					"text": "var(--wp--preset--color--white)"
+				},
+				"css": "text-shadow: var(--wp--preset--shadow--crisp);",
+				"elements": {
+					"link": {
+						"color": {
+							"text": "var(--wp--preset--color--white)"
+						},
+						"typography": {
+							"textDecoration": "none"
+						}
+					}
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--pirata-one)",
+					"fontSize": "14rem",
+					"letterSpacing": "1px"
+				}
+			},
+			"core/term-description": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--pirata-one)",
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"letterSpacing": "1px"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--white)",
+			"text": "var(--wp--preset--color--black)"
+		},
+		"elements": {
+			"button": {
+				"border": {
+					"radius": "8px"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--pirata-one)",
+					"letterSpacing": "1px"
+				}
+			},
+			"link": {
+				":hover": {
+					"color": {
+						"text": "var(--wp--preset--color--black)"
+					}
+				},
+				"color": {
+					"text": "var(--wp--preset--color--black)"
+				}
+			}
+		},
+		"spacing": {
+			"padding": {
+				"bottom": "0px",
+				"left": "24px",
+				"right": "24px",
+				"top": "0px"
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--mulish)",
+			"fontSize": "var(--wp--preset--font-size--medium)"
+		}
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json"
+}
